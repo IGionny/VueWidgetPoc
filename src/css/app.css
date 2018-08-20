@@ -1,0 +1,8 @@
+.widgetEmpty{
+    min-height:100px;
+    min-width:200px;
+    border: 2px dashed gray;
+    text-align:center;
+    padding-top:5%;
+}
+
